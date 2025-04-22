@@ -17,8 +17,7 @@ Reach me at : nzenith08@gmail.com
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-  ![snake gif](https://github.com/njagan04/njagan04/blob/output/github-snake-dark.svg)
-
+<!--   ![snake gif](https://github.com/njagan04/njagan04/blob/output/github-snake-dark.svg) -->
 </div>
 
 <div align="center">
