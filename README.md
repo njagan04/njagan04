@@ -20,7 +20,7 @@ Reach me at : nzenith08@gmail.com
 <!--   ![snake gif](https://github.com/njagan04/njagan04/blob/output/github-snake-dark.svg) -->
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=njagan04.njagan04&"  />
 </div>
 
