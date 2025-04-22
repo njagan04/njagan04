@@ -3,8 +3,20 @@
 <h3>Hi, I'm Jagan</h3>
 <!-- <h2></h2> -->
 I'm a student who finds everything intresting.<br>
-Reach me at : nzenith08@gmail.com
-<br>
+  <br>
+<a href="mailto:nzenith09@gmail.com" target="_blank" style="margin-right: 50px;">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/njagan/" target="_blank" style="margin-right: 50px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@jagan04" target="_blank" style="margin-right: 50px;">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="medium logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/_njagan_" target="_blank" style="margin-right: 50px;">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="hackerrank logo"  />
+  </a>
+
 <h2></h2>
 <h3>Languages and Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
