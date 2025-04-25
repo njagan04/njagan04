@@ -1,10 +1,11 @@
 <div align="center">  
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtjcXR5NjBsYjd3enVtbGRya3U1NzcxOXFrMGtvMG9qajl6MHYzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jagan.;+Welcome+to+My+Profile!;+I+am+interested+in+ML+and+Problem+Solving.+🧠;Always+learning+new+things.+💡)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=𝐇𝐢+𝐭𝐡𝐞𝐫𝐞+👋,+𝐈+𝐚𝐦+𝐉𝐚𝐠𝐚𝐧.;𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐌𝐲+𝐏𝐫𝐨𝐟𝐢𝐥𝐞!;𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝+𝐢𝐧+𝐏𝐫𝐨𝐛𝐥𝐞𝐦+𝐒𝐨𝐥𝐯𝐢𝐧𝐠+𝐰𝐢𝐭𝐡+𝐌𝐋.+🧠;𝐀𝐥𝐰𝐚𝐲𝐬+𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠+𝐧𝐞𝐰+𝐭𝐡𝐢𝐧𝐠𝐬.+💡)](https://git.io/typing-svg)
+  
   <h2></h2>
-  <h3>Languages and Frameworks</h3>
+  <br>
+  <h3 color="#2336BCF7">Languages and Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -21,26 +22,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   
 <br>
-<h2></h2>
-  <h3>Socials</h3>
-      <a href="mailto:nzenith09@gmail.com" target="_blank" style="margin-right: 50px; text-decoration: none; display: inline-block;" >
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/njagan/" target="_blank" style="margin-right: 50px; text-decoration: none; display: inline-block;">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-    </a>
-    <a href="https://medium.com/@jagan04" target="_blank" style="margin-right: 50px;">
-      <img src="https://img.shields.io/static/v1?message=Medium&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="medium logo"  />
-    </a>
-    <a href="https://www.hackerrank.com/profile/_njagan_" target="_blank" style="margin-right: 50px;">
-      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="hackerrank logo"  />
-    </a>
-
+<br>
+<!-- <h2></h2>
+ -->
 <!--   ![snake gif](https://github.com/njagan04/njagan04/blob/output/github-snake-dark.svg) -->
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=njagan04&label=Profile%20views&color=4394c7&style=plastic" alt="njagan04"  />
+    <a href="https://medium.com/@jagan04" target="_blank" style="margin-right: 50px;">
+      <img src="https://img.shields.io/static/v1?message=Medium&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
+    </a>
+    <br>
+    <a href="https://www.linkedin.com/in/njagan/" target="_blank" style="margin-right: 50px;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <br>      
+  <br>
+    <img src="https://komarev.com/ghpvc/?username=njagan04&label=Profile%20views&color=4394c7&style=plastic" alt="njagan04" />
 </div>
 
 
