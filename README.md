@@ -38,7 +38,7 @@
 </div>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=njagan04.njagan04&"  />
+  <img src="https://komarev.com/ghpvc/?username=njagan04&label=Profile%20views&color=4394c7&style=plastic" alt="njagan04"  />
 </div>
 
 
