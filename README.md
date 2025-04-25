@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
     <br>      
   <br>
-    <img src="https://komarev.com/ghpvc/?username=njagan04&label=Profile%20views&color=4394c7&style=plastic" alt="njagan04" />
+    <img src="https://komarev.com/ghpvc/?username=njagan04&label=Profile%20views&color=4394c7&style=plastic" alt="njagan04" height="19"/>
 </div>
 
 
