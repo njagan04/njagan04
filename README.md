@@ -29,7 +29,7 @@
 </div>
 
 <div align="right">
-    <a href="https://medium.com/@jagan04" target="_blank" style="margin-right: 50px;">
+    <a href="https://jykroo.medium.com/" target="_blank" style="margin-right: 50px;">
       <img src="https://img.shields.io/static/v1?message=Medium&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
     </a>
     <br>
