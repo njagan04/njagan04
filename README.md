@@ -1,5 +1,5 @@
 <div align="center">  
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtjcXR5NjBsYjd3enVtbGRya3U1NzcxOXFrMGtvMG9qajl6MHYzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FybHIxaG5pcWFoYXU3Y3J5MHlqMjYwdG5tYnllYm5rNWFtN2xlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=𝐇𝐢+𝐭𝐡𝐞𝐫𝐞+👋,+𝐈+𝐚𝐦+𝐉𝐚𝐠𝐚𝐧;𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝+𝐢𝐧+𝐏𝐫𝐨𝐛𝐥𝐞𝐦+𝐒𝐨𝐥𝐯𝐢𝐧𝐠+𝐰𝐢𝐭𝐡+𝐌𝐋.+🧠;𝐀𝐥𝐰𝐚𝐲𝐬+𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠+𝐧𝐞𝐰+𝐭𝐡𝐢𝐧𝐠𝐬.+💡)](https://git.io/typing-svg)
   
