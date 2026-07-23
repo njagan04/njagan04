@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/static/v1?message=Medium&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
     </a>
     <br>
-    <a href="https://www.linkedin.com/in/njagan/" target="_blank" style="margin-right: 50px;">
+    <a href="https://www.linkedin.com/in/njagan04/" target="_blank" style="margin-right: 50px;">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
     <br>      
   <br>
